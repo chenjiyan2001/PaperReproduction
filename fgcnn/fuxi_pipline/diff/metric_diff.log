@@ -1,0 +1,207 @@
+[2022/01/12 16:29:57] root INFO: binary_cross_entropy: 
+[2022/01/12 16:29:57] root INFO: 	mean diff: check passed: True, value: 3.5762788286319847e-08
+[2022/01/12 16:29:58] root INFO: diff check passed
+[2022/01/12 17:25:36] root INFO: loss_0: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/01/12 17:25:36] root INFO: loss_1: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 3.081560134887695e-05
+[2022/01/12 17:25:36] root INFO: loss_2: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 8.079409599304199e-05
+[2022/01/12 17:25:36] root INFO: loss_3: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 8.060038089752197e-05
+[2022/01/12 17:25:36] root INFO: loss_4: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 4.573166370391846e-05
+[2022/01/12 17:25:36] root INFO: loss_5: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.4097429811954498e-05
+[2022/01/12 17:25:36] root INFO: loss_6: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 2.087559551000595e-06
+[2022/01/12 17:25:36] root INFO: loss_7: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 2.3843313101679087e-07
+[2022/01/12 17:25:36] root INFO: loss_8: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 5.960487214906607e-08
+[2022/01/12 17:25:36] root INFO: loss_9: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/01/12 17:25:36] root INFO: loss_10: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0067310333251953125
+[2022/01/12 17:25:36] root INFO: loss_11: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/01/12 17:25:36] root INFO: loss_12: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 5.960464477539063e-08
+[2022/01/12 17:25:36] root INFO: loss_13: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 5.364854587242007e-07
+[2022/01/12 17:25:36] root INFO: loss_14: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.8485297914594412e-06
+[2022/01/12 17:25:36] root INFO: loss_15: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.4329561963677406e-06
+[2022/01/12 17:25:36] root INFO: loss_16: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 9.640585631132126e-06
+[2022/01/12 17:25:36] root INFO: loss_17: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 9.333714842796326e-06
+[2022/01/12 17:25:36] root INFO: loss_18: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 2.6153400540351868e-05
+[2022/01/12 17:25:36] root INFO: loss_19: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0002052169293165207
+[2022/01/12 17:25:36] root INFO: loss_20: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 5.0924718379974365e-05
+[2022/01/12 17:25:36] root INFO: loss_21: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 6.695464253425598e-05
+[2022/01/12 17:25:36] root INFO: loss_22: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.6689300537109375e-06
+[2022/01/12 17:25:36] root INFO: loss_23: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 4.9132853746414185e-05
+[2022/01/12 17:25:36] root INFO: loss_24: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.00015932880342006683
+[2022/01/12 17:25:36] root INFO: loss_25: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0003833770751953125
+[2022/01/12 17:25:36] root INFO: loss_26: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 3.220513463020325e-05
+[2022/01/12 17:25:36] root INFO: loss_27: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.00017161667346954346
+[2022/01/12 17:25:36] root INFO: loss_28: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 8.662045001983643e-05
+[2022/01/12 17:25:36] root INFO: loss_29: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 6.520748138427734e-05
+[2022/01/12 17:25:36] root INFO: loss_30: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.00024390220642089844
+[2022/01/12 17:25:36] root INFO: loss_31: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 3.5703182220458984e-05
+[2022/01/12 17:25:36] root INFO: loss_32: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.00013609230518341064
+[2022/01/12 17:25:36] root INFO: loss_33: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 6.0871243476867676e-05
+[2022/01/12 17:25:36] root INFO: loss_34: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 8.711963891983032e-05
+[2022/01/12 17:25:36] root INFO: loss_35: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.00042885541915893555
+[2022/01/12 17:25:36] root INFO: loss_36: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 4.8376619815826416e-05
+[2022/01/12 17:25:36] root INFO: loss_37: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 2.9042363166809082e-05
+[2022/01/12 17:25:36] root INFO: loss_38: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 7.515773177146912e-06
+[2022/01/12 17:25:36] root INFO: loss_39: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.3744458556175232e-05
+[2022/01/12 17:25:36] root INFO: loss_40: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 5.723908543586731e-06
+[2022/01/12 17:25:36] root INFO: loss_41: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 9.12277027964592e-06
+[2022/01/12 17:25:36] root INFO: loss_42: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.257285475730896e-06
+[2022/01/12 17:25:36] root INFO: loss_43: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.142057590186596e-05
+[2022/01/12 17:25:36] root INFO: loss_44: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.2541422620415688e-06
+[2022/01/12 17:25:36] root INFO: loss_45: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 2.3277243599295616e-06
+[2022/01/12 17:25:36] root INFO: loss_46: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.491396687924862e-06
+[2022/01/12 17:25:36] root INFO: loss_47: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.1032912880182266e-05
+[2022/01/12 17:25:36] root INFO: loss_48: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 9.480718290433288e-06
+[2022/01/12 17:25:36] root INFO: loss_49: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 7.511975127272308e-06
+[2022/01/12 17:25:36] root INFO: loss_50: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 7.094204192981124e-06
+[2022/01/12 17:25:36] root INFO: loss_51: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 6.140064215287566e-06
+[2022/01/12 17:25:36] root INFO: loss_52: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 4.53037500847131e-06
+[2022/01/12 17:25:36] root INFO: loss_53: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 3.39767211698927e-06
+[2022/01/12 17:25:36] root INFO: loss_54: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 2.5631088647060096e-06
+[2022/01/12 17:25:36] root INFO: loss_55: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.9074141164310277e-06
+[2022/01/12 17:25:36] root INFO: loss_56: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.6093672456918284e-06
+[2022/01/12 17:25:36] root INFO: loss_57: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 1.1325100786052644e-06
+[2022/01/12 17:25:36] root INFO: loss_58: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 8.94083314051386e-07
+[2022/01/12 17:25:36] root INFO: loss_59: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 7.152639227570035e-07
+[2022/01/12 17:25:36] root INFO: loss_60: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 5.364463504520245e-07
+[2022/01/12 17:25:36] root INFO: loss_61: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 4.172352419118397e-07
+[2022/01/12 17:25:36] root INFO: loss_62: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 3.576301423890982e-07
+[2022/01/12 17:25:36] root INFO: loss_63: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 1.7881438907352276e-07
+[2022/01/12 17:25:36] root INFO: loss_64: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 1.7881438907352276e-07
+[2022/01/12 17:25:36] root INFO: loss_65: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 1.1920974429813214e-07
+[2022/01/12 17:25:36] root INFO: loss_66: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 1.1920974429813214e-07
+[2022/01/12 17:25:36] root INFO: loss_67: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 5.960464477539063e-08
+[2022/01/12 17:25:36] root INFO: loss_68: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 5.960464477539063e-08
+[2022/01/12 17:25:36] root INFO: loss_69: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/01/12 17:25:36] root INFO: loss_70: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.01291656494140625
+[2022/01/12 17:25:36] root INFO: loss_71: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: True, value: 6.55694748274982e-07
+[2022/01/12 17:25:36] root INFO: loss_72: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 8.351053111255169e-06
+[2022/01/12 17:25:36] root INFO: loss_73: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 3.2621901482343674e-05
+[2022/01/12 17:25:36] root INFO: loss_74: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 9.208917617797852e-06
+[2022/01/12 17:25:36] root INFO: loss_75: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 7.913634181022644e-05
+[2022/01/12 17:25:36] root INFO: loss_76: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0003579854965209961
+[2022/01/12 17:25:36] root INFO: loss_77: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.000532001256942749
+[2022/01/12 17:25:36] root INFO: loss_78: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.00115966796875
+[2022/01/12 17:25:36] root INFO: loss_79: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0015629082918167114
+[2022/01/12 17:25:36] root INFO: loss_80: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0010444074869155884
+[2022/01/12 17:25:36] root INFO: loss_81: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0014869868755340576
+[2022/01/12 17:25:36] root INFO: loss_82: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.001149192452430725
+[2022/01/12 17:25:36] root INFO: loss_83: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.009505510330200195
+[2022/01/12 17:25:36] root INFO: loss_84: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.00159396231174469
+[2022/01/12 17:25:36] root INFO: loss_85: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.003461122512817383
+[2022/01/12 17:25:36] root INFO: loss_86: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.003731071949005127
+[2022/01/12 17:25:36] root INFO: loss_87: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.004835009574890137
+[2022/01/12 17:25:36] root INFO: loss_88: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.005566135048866272
+[2022/01/12 17:25:36] root INFO: loss_89: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.006669074296951294
+[2022/01/12 17:25:36] root INFO: loss_90: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.007728062570095062
+[2022/01/12 17:25:36] root INFO: loss_91: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.00390961766242981
+[2022/01/12 17:25:36] root INFO: loss_92: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.003074832260608673
+[2022/01/12 17:25:36] root INFO: loss_93: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0026061907410621643
+[2022/01/12 17:25:36] root INFO: loss_94: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0020537469536066055
+[2022/01/12 17:25:36] root INFO: loss_95: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0015723444521427155
+[2022/01/12 17:25:36] root INFO: loss_96: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0008641919121146202
+[2022/01/12 17:25:36] root INFO: loss_97: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0007320195436477661
+[2022/01/12 17:25:36] root INFO: loss_98: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0005237576551735401
+[2022/01/12 17:25:36] root INFO: loss_99: 
+[2022/01/12 17:25:36] root INFO: 	mean diff: check passed: False, value: 0.0003939040470868349
+[2022/01/12 17:25:36] root INFO: diff check failed
+[2022/01/12 17:31:56] root INFO: train: 
+[2022/01/12 17:31:56] root INFO: 	mean diff: check passed: False, value: 3.7646660804748535
+[2022/01/12 17:31:56] root INFO: diff check failed
